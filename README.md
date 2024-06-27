@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 <div style="text-align: center;">
     <p style="color: #fabe77; font-size: 30px; font-weight: bold; margin-top: -5px;">MCK</p>
     <p style="margin-top: -25px;"><a href="#" style="font-weight: bold;">Перевести на русский язык</a></p>
@@ -51,3 +56,5 @@
 <div style="text-align: center;">
     <p style="color: #fabe77; font-size: 30px; font-weight: bold; margin-top: 70px;">Good luck, and enjoy using it!</p>
 </div>
+</body>
+</html>
